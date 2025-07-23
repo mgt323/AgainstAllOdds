@@ -1,0 +1,35 @@
+
+state = {
+	id = 834
+	name = "STATE_834"
+	manpower = 183748
+	
+	state_category = rural
+
+	history = {
+		owner = POL
+		victory_points = {
+			3757 2 
+		}
+		buildings = {
+		
+			infrastructure = 2
+			
+		}
+		add_core_of = POL
+		add_core_of = UKR
+		add_core_of = MOL
+		add_claim_by = SOV
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+			}
+		}
+	}
+
+	provinces = {
+		754 3575 3757 9576
+	}
+
+	local_supplies = 6.0 
+}
