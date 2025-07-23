@@ -1,0 +1,10 @@
+ideas = {
+	country = {
+		gb_lobby = {
+			picture = generic_pp_unity_bonus
+			modifier = {
+				political_power_gain = 0.3
+			}
+		}
+	}
+}
