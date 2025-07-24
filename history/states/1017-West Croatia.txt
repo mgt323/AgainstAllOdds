@@ -1,0 +1,24 @@
+state={
+	id=1017
+	name="STATE_1017"
+	history = {
+		owner = HUN
+		buildings = {
+			infrastructure = 3
+			dockyard = 3
+			industrial_complex = 1
+			591 = {
+				naval_base = 5
+			}
+		}
+		#add_claim_by = ITA #added by focus
+		add_core_of = CRO
+	}
+	provinces={
+		591 3601 6611 13252 
+	}
+	state_category = town
+	manpower=954466
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,1 +1,2 @@
 MOL = "countries/Moldova.txt"
+POL = "countries/Poland.txt"
